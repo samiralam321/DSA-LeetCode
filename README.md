@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/samiralam321/DSA-LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/samiralam321/DSA-LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/samiralam321/DSA-LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/samiralam321/DSA-LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/samiralam321/DSA-LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/samiralam321/DSA-LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/samiralam321/DSA-LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/samiralam321/DSA-LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/samiralam321/DSA-LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
