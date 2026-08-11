@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/0113-path-sum-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/samiralam321/DSA-LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0257-binary-tree-paths](https://github.com/samiralam321/DSA-LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/0113-path-sum-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/samiralam321/DSA-LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0257-binary-tree-paths](https://github.com/samiralam321/DSA-LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/0113-path-sum-ii/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/samiralam321/DSA-LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0257-binary-tree-paths](https://github.com/samiralam321/DSA-LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -49,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/samiralam321/DSA-LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 ## String
@@ -60,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/samiralam321/DSA-LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
