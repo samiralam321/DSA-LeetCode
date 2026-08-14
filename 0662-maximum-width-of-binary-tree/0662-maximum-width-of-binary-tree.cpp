@@ -13,30 +13,33 @@ class Solution {
 public:
     typedef unsigned long long ll;
     int widthOfBinaryTree(TreeNode* root) {
-        if(!root)   
-            return 0;
+        if(root == NULL) return 0;
+
         queue<pair<TreeNode*, ll>> que;
-        que.push({root, 0});
+        que.push({root,0});
+
         ll maxWidth = 0;
-        
-        while(!que.empty()) {
+
+        while(!que.empty()){
             int n = que.size();
-            ll f = que.front().second;
-            ll l = que.back().second;
-            maxWidth = max(maxWidth, l-f+1);
-            
-            while(n--) {
+            ll L = que.front().second;
+            ll R = que.back().second;
+
+            maxWidth = max(maxWidth, R-L+1);
+
+            while(n--){
                 TreeNode* curr = que.front().first;
-                ll d          = que.front().second;
+                ll idx = que.front().second;
                 que.pop();
-                if(curr->left) {
-                    que.push({curr->left, 2*d+1});
+
+                if(curr->left != NULL){
+                    que.push({curr->left, 2*idx+1});
                 }
-                if(curr->right) {
-                    que.push({curr->right, 2*d+2});
+                if(curr->right != NULL){
+                    que.push({curr->right, 2*idx+2});
                 }
             }
         }
-        return maxWidth;
+        return maxWidth;  
     }
 };
