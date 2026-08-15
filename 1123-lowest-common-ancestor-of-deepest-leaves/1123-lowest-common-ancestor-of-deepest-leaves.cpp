@@ -15,17 +15,17 @@ public:
     int maxD = 0;
 
     TreeNode* LCA(TreeNode* root){
-        if(root == NULL || mp[root->val] == maxD){
+        if(root == NULL) return NULL;
+        if(mp[root->val] == maxD){
             return root;
         }
 
         TreeNode* l = LCA(root->left);
         TreeNode* r = LCA(root->right);
 
-        if(l!=NULL && r != NULL){
+        if(l != NULL && r != NULL){
             return root;
         }
-
         if(l != NULL){
             return l;
         }
@@ -40,9 +40,9 @@ public:
         depth(root->left, d+1);
         depth(root->right, d+1);
     }
+
     TreeNode* lcaDeepestLeaves(TreeNode* root) {
         depth(root,0);
-
-        return LCA(root);
+        return LCA(root); 
     }
 };
