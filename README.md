@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/samiralam321/DSA-LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/samiralam321/DSA-LeetCode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/samiralam321/DSA-LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/samiralam321/DSA-LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/samiralam321/DSA-LeetCode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/samiralam321/DSA-LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## Depth-First Search
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/samiralam321/DSA-LeetCode/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/samiralam321/DSA-LeetCode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/samiralam321/DSA-LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## DP on Trees
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/samiralam321/DSA-LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
