@@ -12,24 +12,39 @@
 class FindElements {
 public:
     unordered_set<int> st;
-    void DFS(TreeNode* root, int rootVal){
+
+    void bfs(TreeNode* root, int x){
         if(root == NULL) return;
+        root->val = x;
+        queue<TreeNode*> que;
+        que.push(root);
 
-        root->val = rootVal;
-        st.insert(rootVal);
+        while(!que.empty()){
+            TreeNode* temp = que.front();
+            que.pop();
 
-        DFS(root->left, 2*rootVal + 1);
-        DFS(root->right, 2*rootVal + 2);
+            st.insert(temp->val);
+
+            if(temp->left != NULL){
+                temp->left->val = 2*temp->val + 1;
+                que.push(temp->left);
+            }
+
+            if(temp->right != NULL){
+                temp->right->val = 2*temp->val + 2;
+                que.push(temp->right);
+            }
+        }
     }
 
     FindElements(TreeNode* root) {
         st.clear();
-        DFS(root,0);
+        bfs(root,0);
         
     }
     
     bool find(int target) {
-        return st.count(target);   
+        return st.count(target);  
     }
 };
 
