@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/samiralam321/DSA-LeetCode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/samiralam321/DSA-LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samiralam321/DSA-LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/samiralam321/DSA-LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/samiralam321/DSA-LeetCode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/samiralam321/DSA-LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/samiralam321/DSA-LeetCode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/samiralam321/DSA-LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samiralam321/DSA-LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/samiralam321/DSA-LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
