@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samiralam321/DSA-LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/samiralam321/DSA-LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samiralam321/DSA-LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/samiralam321/DSA-LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samiralam321/DSA-LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/samiralam321/DSA-LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
