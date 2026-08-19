@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/samiralam321/DSA-LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/samiralam321/DSA-LeetCode/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/samiralam321/DSA-LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/samiralam321/DSA-LeetCode/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/samiralam321/DSA-LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/samiralam321/DSA-LeetCode/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/samiralam321/DSA-LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/samiralam321/DSA-LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1530-number-of-good-leaf-nodes-pairs](https://github.com/samiralam321/DSA-LeetCode/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
