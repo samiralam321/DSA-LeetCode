@@ -10,35 +10,24 @@
  * };
  */
 class Solution {
-    public:
-
+public:
+    int ans;
     int maxDepth = -1;
-    vector<int> vec;
 
-    void findDepth(TreeNode* root, int depth){
+    void dfs(TreeNode* root, int depth){
         if(root == NULL) return;
 
-        maxDepth = max(maxDepth, depth);
-
-        findDepth(root->left, depth+1);
-        findDepth(root->right, depth+1);
-    }
-
-    void storeNode(TreeNode* root, int depth){
-        if(root == NULL) return;
-
-        if(depth == maxDepth){
-            vec.push_back(root->val);
-            return;
+        if(depth > maxDepth){
+            maxDepth = depth;
+            ans = root->val;
         }
-        storeNode(root->left, depth+1);
-        storeNode(root->right, depth+1);
+
+        dfs(root->left, depth+1);
+        dfs(root->right, depth+1);
+
     }
-
     int findBottomLeftValue(TreeNode* root) {
-        findDepth(root,0);
-        storeNode(root,0);
-
-        return vec[0];
+        dfs(root, 0);
+        return ans;    
     }
 };
