@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/samiralam321/DSA-LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0437-path-sum-iii](https://github.com/samiralam321/DSA-LeetCode/tree/main/0437-path-sum-iii/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/samiralam321/DSA-LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/samiralam321/DSA-LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/samiralam321/DSA-LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0513-find-bottom-left-tree-value](https://github.com/samiralam321/DSA-LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/samiralam321/DSA-LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/samiralam321/DSA-LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/samiralam321/DSA-LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0437-path-sum-iii](https://github.com/samiralam321/DSA-LeetCode/tree/main/0437-path-sum-iii/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/samiralam321/DSA-LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/samiralam321/DSA-LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/samiralam321/DSA-LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/samiralam321/DSA-LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0437-path-sum-iii](https://github.com/samiralam321/DSA-LeetCode/tree/main/0437-path-sum-iii/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/samiralam321/DSA-LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/samiralam321/DSA-LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/samiralam321/DSA-LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
