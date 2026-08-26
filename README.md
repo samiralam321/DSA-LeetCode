@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/samiralam321/DSA-LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/samiralam321/DSA-LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/samiralam321/DSA-LeetCode/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/samiralam321/DSA-LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/samiralam321/DSA-LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samiralam321/DSA-LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/samiralam321/DSA-LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/samiralam321/DSA-LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/samiralam321/DSA-LeetCode/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/samiralam321/DSA-LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/samiralam321/DSA-LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/samiralam321/DSA-LeetCode/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samiralam321/DSA-LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -187,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -216,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 <!---LeetCode Topics End-->
