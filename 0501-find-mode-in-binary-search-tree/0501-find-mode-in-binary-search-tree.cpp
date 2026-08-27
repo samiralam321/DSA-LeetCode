@@ -14,7 +14,9 @@ public:
     vector<int> ans;
 
     void solve(TreeNode* root){
-        if(root == NULL) return;
+        if(root == NULL){
+            return;
+        }
 
         solve(root->left);
         ans.push_back(root->val);
@@ -24,26 +26,20 @@ public:
     vector<int> findMode(TreeNode* root) {
         solve(root);
 
-        vector<int> result;
+        map<int,int> mp;
+        for(int i=0; i<ans.size(); i++){
+            mp[ans[i]]++;
+        }
 
         int maxFreq = 0;
-        int freq = 1;
 
-        for(int i=0; i<ans.size(); i++){
-            if(i > 0 && ans[i] == ans[i-1]){
-                freq++;
-            }
-            else{
-                freq = 1;
-            }
-
-            if(freq > maxFreq){
-                maxFreq = freq;
-                result.clear();
-                result.push_back(ans[i]);
-            }
-            else if(freq == maxFreq){
-                result.push_back(ans[i]);
+        for(auto it : mp){
+            maxFreq = max(maxFreq, it.second);
+        }
+        vector<int> result;
+        for(auto it : mp){
+            if(it.second == maxFreq){
+                result.push_back(it.first);
             }
         }
         return result;
