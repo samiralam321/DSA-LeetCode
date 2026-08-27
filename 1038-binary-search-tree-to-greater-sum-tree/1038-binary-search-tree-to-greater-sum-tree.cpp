@@ -11,35 +11,21 @@
  */
 class Solution {
 public:
-    vector<int> arr;
-
-    void inorder(TreeNode* root){
+    void solve(TreeNode* root, int &sum){
         if(root == NULL) return;
 
-        inorder(root->left);
-        arr.push_back(root->val);
-        inorder(root->right);
-    }
-
-    void update(TreeNode* root){
-        if(root == NULL) return;
-
-        update(root->left);
-
-        int sum = 0;
-
-        for(int i=0; i<arr.size(); i++){
-            if(arr[i] >= root->val){
-                sum += arr[i];
-            }
-        }
+        solve(root->right, sum);
+        sum += root->val;
         root->val = sum;
-        update(root->right);
+
+        solve(root->left, sum);
     }
 
     TreeNode* bstToGst(TreeNode* root) {
-        inorder(root);
-        update(root);
-        return root;  
+        int sum = 0;
+        solve(root, sum);
+
+        return root;
+        
     }
 };
