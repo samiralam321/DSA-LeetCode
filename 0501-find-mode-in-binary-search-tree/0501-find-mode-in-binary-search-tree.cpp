@@ -11,37 +11,37 @@
  */
 class Solution {
 public:
-    vector<int> ans;
+    vector<int> result;
 
-    void solve(TreeNode* root){
-        if(root == NULL){
-            return;
+    int currNum = 0;
+    int currFreq = 0;
+    int maxFreq = 0;
+
+    void dfs(TreeNode* root){
+        if(root == NULL) return;
+
+        dfs(root->left);
+
+        if(root->val == currNum){
+            currFreq++;
+        }else{
+            currNum = root->val;
+            currFreq = 1;
         }
 
-        solve(root->left);
-        ans.push_back(root->val);
-        solve(root->right);
+        if(currFreq > maxFreq){
+            result = {};
+            maxFreq = currFreq;
+        }
+
+        if(currFreq == maxFreq){
+            result.push_back(root->val);
+        }
+        dfs(root->right);
     }
 
     vector<int> findMode(TreeNode* root) {
-        solve(root);
-
-        map<int,int> mp;
-        for(int i=0; i<ans.size(); i++){
-            mp[ans[i]]++;
-        }
-
-        int maxFreq = 0;
-
-        for(auto it : mp){
-            maxFreq = max(maxFreq, it.second);
-        }
-        vector<int> result;
-        for(auto it : mp){
-            if(it.second == maxFreq){
-                result.push_back(it.first);
-            }
-        }
+        dfs(root);
         return result;
     }
 };
