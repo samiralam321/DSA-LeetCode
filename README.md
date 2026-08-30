@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/samiralam321/DSA-LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/samiralam321/DSA-LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/0113-path-sum-ii/) | Medium |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/samiralam321/DSA-LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
