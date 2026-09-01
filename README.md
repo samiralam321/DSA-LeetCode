@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/samiralam321/DSA-LeetCode/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samiralam321/DSA-LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [0897-increasing-order-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/samiralam321/DSA-LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/samiralam321/DSA-LeetCode/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samiralam321/DSA-LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [0897-increasing-order-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/samiralam321/DSA-LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/samiralam321/DSA-LeetCode/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samiralam321/DSA-LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [0897-increasing-order-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/samiralam321/DSA-LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0979-distribute-coins-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -221,11 +224,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/samiralam321/DSA-LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0897-increasing-order-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
