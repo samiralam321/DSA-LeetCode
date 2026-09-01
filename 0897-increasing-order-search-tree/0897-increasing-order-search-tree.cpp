@@ -9,29 +9,32 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
 class Solution {
-public:
+    public:
     TreeNode* head = NULL;
     TreeNode* prev = NULL;
 
     void inorder(TreeNode* root){
-        if(root == NULL)
-            return;
+        if(root == NULL) return;
 
         inorder(root->left);
 
-        if(head == NULL)
+        //process the root
+        if(head == NULL){
             head = root;
+        }
 
-        if(prev != NULL)
+        if(prev != NULL){
             prev->right = root;
-
+        }
         root->left = NULL;
         prev = root;
+
         inorder(root->right);
     }
 
-    TreeNode* increasingBST(TreeNode* root) {
+    TreeNode* increasingBST(TreeNode* root){
         inorder(root);
         return head;
     }
