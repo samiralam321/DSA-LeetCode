@@ -8,7 +8,8 @@
  * };
  */
 class Codec {
-public:
+    public:
+
     void seriHelper(TreeNode* root, string &s){
         if(root == NULL) return;
 
@@ -18,44 +19,40 @@ public:
         seriHelper(root->right, s);
     }
 
-    string serialize(TreeNode* root) {
+    string serialize(TreeNode* root){
         string s;
         seriHelper(root,s);
-        
         return s;
     }
 
-    TreeNode* build(vector<int>& nums, int &i, int lo, int hi){
-        if(i == nums.size() || nums[i] < lo || nums[i] > hi){
+    TreeNode* deseri(vector<int>&nums, int &i, int lo, int hi){
+        if(i == nums.size() || nums[i] > hi || nums[i] < lo){
             return NULL;
         }
 
-        TreeNode* root = new TreeNode(nums[i]);
+        TreeNode* root = new TreeNode((nums[i]));
         i++;
 
-        root->left = build(nums,i,lo,root->val);
-        root->right = build(nums, i, root->val, hi);
+        root->left = deseri(nums, i, lo, root->val);
+        root->right = deseri(nums, i, root->val, hi);
 
         return root;
     }
 
-    TreeNode* deserialize(string data) {
-        if(data == ""){
-            return NULL;
-        }
+    TreeNode* deserialize(string data){
+        if(data == "") return NULL;
 
         stringstream ss(data);
 
         string x;
         vector<int> nums;
 
-        while(getline(ss, x, ',')){
+        while(getline(ss,x, ',')){
             nums.push_back(stoi(x));
         }
 
         int i = 0;
-        return build(nums, i, INT_MIN, INT_MAX);
-        
+        return deseri(nums, i, INT_MIN, INT_MAX);
     }
 };
 
