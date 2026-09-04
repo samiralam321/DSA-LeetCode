@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/samiralam321/DSA-LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/samiralam321/DSA-LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/samiralam321/DSA-LeetCode/tree/main/0814-binary-tree-pruning/) | Medium |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/samiralam321/DSA-LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/samiralam321/DSA-LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/samiralam321/DSA-LeetCode/tree/main/0814-binary-tree-pruning/) | Medium |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/samiralam321/DSA-LeetCode/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0669-trim-a-binary-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/samiralam321/DSA-LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0814-binary-tree-pruning](https://github.com/samiralam321/DSA-LeetCode/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0538-convert-bst-to-greater-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0669-trim-a-binary-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/samiralam321/DSA-LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
