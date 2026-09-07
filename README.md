@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/samiralam321/DSA-LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0115-distinct-subsequences](https://github.com/samiralam321/DSA-LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0509-fibonacci-number](https://github.com/samiralam321/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/samiralam321/DSA-LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Bit Manipulation
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/samiralam321/DSA-LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0509-fibonacci-number](https://github.com/samiralam321/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/samiralam321/DSA-LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Prefix Sum
@@ -308,4 +310,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/samiralam321/DSA-LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/samiralam321/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/samiralam321/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
