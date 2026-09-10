@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/samiralam321/DSA-LeetCode/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/samiralam321/DSA-LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/samiralam321/DSA-LeetCode/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
 ## Breadth-First Search
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/samiralam321/DSA-LeetCode/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/samiralam321/DSA-LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/samiralam321/DSA-LeetCode/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
 ## Depth-First Search
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/samiralam321/DSA-LeetCode/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/samiralam321/DSA-LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
