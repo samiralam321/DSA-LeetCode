@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/samiralam321/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/samiralam321/DSA-LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/samiralam321/DSA-LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/samiralam321/DSA-LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/samiralam321/DSA-LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
