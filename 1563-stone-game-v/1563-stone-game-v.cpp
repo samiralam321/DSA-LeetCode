@@ -13,7 +13,7 @@ public:
 
         for(int mid=l; mid <= r-1; mid++){
             int leftSum = prefSum[mid] - (l > 0 ? prefSum[l-1] : 0);
-            int rightSum = rightSum = prefSum[r] - prefSum[mid];
+            int rightSum = prefSum[r] - prefSum[mid];
             
             if(leftSum < rightSum){
                 score  = max(score, leftSum + solve(l, mid, prefSum));
