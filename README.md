@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/samiralam321/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/samiralam321/DSA-LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/samiralam321/DSA-LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/samiralam321/DSA-LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/samiralam321/DSA-LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/samiralam321/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/samiralam321/DSA-LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/samiralam321/DSA-LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/samiralam321/DSA-LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/samiralam321/DSA-LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/samiralam321/DSA-LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -390,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/samiralam321/DSA-LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 <!---LeetCode Topics End-->
