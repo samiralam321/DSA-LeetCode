@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0647-palindromic-substrings](https://github.com/samiralam321/DSA-LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
+| [1143-longest-common-subsequence](https://github.com/samiralam321/DSA-LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/samiralam321/DSA-LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/samiralam321/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/samiralam321/DSA-LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/samiralam321/DSA-LeetCode/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/samiralam321/DSA-LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/samiralam321/DSA-LeetCode/tree/main/1563-stone-game-v/) | Hard |
@@ -408,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/samiralam321/DSA-LeetCode/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/samiralam321/DSA-LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/samiralam321/DSA-LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
