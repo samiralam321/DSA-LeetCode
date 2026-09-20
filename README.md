@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/samiralam321/DSA-LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/samiralam321/DSA-LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0115-distinct-subsequences](https://github.com/samiralam321/DSA-LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/samiralam321/DSA-LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/samiralam321/DSA-LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0509-fibonacci-number](https://github.com/samiralam321/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/samiralam321/DSA-LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/samiralam321/DSA-LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/samiralam321/DSA-LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
