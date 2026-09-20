@@ -1,22 +1,24 @@
 class Solution {
 public:
-    int dp[101][101];
-
-    int solve(int i, int j, int m, int n){
-        if(i<0 || i>=m || j<0 || j>=n) return 0;
-        if(i == m-1 && j == n-1) return 1;
-
-        if(dp[i][j] != -1){
-            return dp[i][j];
+    int uniquePaths(int m, int n) {
+        vector<vector<int>> t(m, vector<int>(n));
+        t[0][0] = 1;
+        
+        //row
+        for(int col = 1; col<n; col++){
+            t[0][col] = 1;
         }
 
-        int right = solve(i, j+1, m, n);
-        int down = solve(i+1, j, m, n);
+        // col
+        for(int row=1; row<m; row++){
+            t[row][0] = 1;
+        }
 
-        return dp[i][j] = right + down;
-    }
-    int uniquePaths(int m, int n) {
-        memset(dp, -1, sizeof(dp));
-        return solve(0,0,m,n);  
+        for(int i=1; i<m; i++){
+            for(int j=1; j<n; j++){
+                t[i][j] = t[i-1][j] + t[i][j-1];
+            }
+        }
+        return t[m-1][n-1];
     }
 };
