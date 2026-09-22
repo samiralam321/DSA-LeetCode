@@ -2,25 +2,12 @@ class Solution {
 public:
     int countPartitions(vector<int>& nums) {
         int n = nums.size();
+        int totalSum = 0;
 
-        vector<int> prefixSum(n);
-        prefixSum[0] = nums[0];
-
-        for(int i=1; i<n; i++) {
-            prefixSum[i] = prefixSum[i-1] + nums[i];
+        for(int x : nums) {
+            totalSum += x;
         }
-
-        int totalSum = prefixSum[n - 1];
-        int ans = 0;
-
-        for(int i=0; i<n - 1; i++){
-            int leftSum = prefixSum[i];
-            int rightSum = totalSum - prefixSum[i];
-
-            if((leftSum - rightSum) % 2 == 0) {
-                ans++;
-            }
-        }
-        return ans;
+        if(totalSum % 2 == 0) return n - 1;
+        return 0;
     }
 };
