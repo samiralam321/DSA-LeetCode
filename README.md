@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/samiralam321/DSA-LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/samiralam321/DSA-LeetCode/tree/main/1563-stone-game-v/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/samiralam321/DSA-LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/samiralam321/DSA-LeetCode/tree/main/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/samiralam321/DSA-LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/samiralam321/DSA-LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/samiralam321/DSA-LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Divide and Conquer
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/samiralam321/DSA-LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/samiralam321/DSA-LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/samiralam321/DSA-LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/samiralam321/DSA-LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/samiralam321/DSA-LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/samiralam321/DSA-LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -436,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/samiralam321/DSA-LeetCode/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/samiralam321/DSA-LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/samiralam321/DSA-LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
