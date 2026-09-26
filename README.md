@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/samiralam321/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/samiralam321/DSA-LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/samiralam321/DSA-LeetCode/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
+| [1043-partition-array-for-maximum-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/samiralam321/DSA-LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/samiralam321/DSA-LeetCode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/samiralam321/DSA-LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/samiralam321/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/samiralam321/DSA-LeetCode/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
+| [1043-partition-array-for-maximum-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/samiralam321/DSA-LeetCode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/samiralam321/DSA-LeetCode/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/samiralam321/DSA-LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
