@@ -1,7 +1,7 @@
 class Solution {
 public:
     string evaluate(string s, vector<vector<string>>& knowledge) {
-        unordered_map<string,string> mp;
+        unordered_map<string, string> mp;
 
         for(auto x : knowledge){
             mp[x[0]] = x[1];
@@ -14,21 +14,17 @@ public:
                 while(s[j] != ')'){
                     j++;
                 }
-
-                string key = s.substr(i + 1, j-i-1);
+                string key = s.substr(i+1, j-i-1);
 
                 if(mp.find(key) != mp.end()){
                     ans += mp[key];
-                }
-                else{
+                }else{
                     ans += "?";
                 }
                 i = j;
             }
-            else{
-                ans += s[i];
-            }
+            else ans += s[i];
         }
-        return ans;
+        return ans; 
     }
 };
