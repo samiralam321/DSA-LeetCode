@@ -5,31 +5,27 @@ public:
 
     int solve(vector<vector<int>>& grid, int i, int j, int k, int cost){
         if(i>=m || j>=n){
-            return INT_MIN;
+            return -1e9;
         }
+
         int newCost = cost + (grid[i][j] > 0 ? 1 : 0);
 
         if(newCost > k){
-            return INT_MIN;
+            return -1e9;
+        }
+
+        if(i == m-1 && j == n-1){
+            return grid[i][j];
         }
 
         if(dp[i][j][newCost] != -1){
             return dp[i][j][newCost];
         }
 
-        if(i == m-1 && j == n-1){
-            return dp[i][j][newCost] = grid[i][j];
-        }
+        int right = grid[i][j] + solve(grid, i, j+1, k, newCost);
+        int down = grid[i][j] + solve(grid, i+1, j, k, newCost);
 
-        int right = solve(grid, i, j+1, k, newCost);
-        int down = solve(grid, i+1, j, k, newCost);
-
-        int bestNext = max(right, down);
-
-        if(bestNext == INT_MIN){
-            return dp[i][j][newCost] = INT_MIN;
-        }
-        return dp[i][j][newCost] = grid[i][j] + bestNext;
+        return dp[i][j][newCost] = max(right, down);
     }
 
     int maxPathScore(vector<vector<int>>& grid, int k) {
@@ -39,6 +35,7 @@ public:
         dp.resize(m, vector<vector<int>>(n, vector<int>(k+1, -1)));
 
         int result = solve(grid, 0, 0, k, 0);
-        return result == INT_MIN ? -1 : result;
+
+        return result < 0 ? -1 : result;
     }
 };
