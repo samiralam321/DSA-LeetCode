@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/samiralam321/DSA-LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/samiralam321/DSA-LeetCode/tree/main/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/samiralam321/DSA-LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/samiralam321/DSA-LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/samiralam321/DSA-LeetCode/tree/main/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/samiralam321/DSA-LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/samiralam321/DSA-LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/samiralam321/DSA-LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/samiralam321/DSA-LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/samiralam321/DSA-LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0835-image-overlap](https://github.com/samiralam321/DSA-LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/samiralam321/DSA-LeetCode/tree/main/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/samiralam321/DSA-LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
