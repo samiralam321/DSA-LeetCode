@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/samiralam321/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/samiralam321/DSA-LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0576-out-of-boundary-paths](https://github.com/samiralam321/DSA-LeetCode/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0647-palindromic-substrings](https://github.com/samiralam321/DSA-LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0688-knight-probability-in-chessboard](https://github.com/samiralam321/DSA-LeetCode/tree/main/0688-knight-probability-in-chessboard/) | Medium |
 | [0877-stone-game](https://github.com/samiralam321/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
