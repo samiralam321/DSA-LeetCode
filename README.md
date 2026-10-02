@@ -267,6 +267,7 @@
 | [1563-stone-game-v](https://github.com/samiralam321/DSA-LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1575-count-all-possible-routes](https://github.com/samiralam321/DSA-LeetCode/tree/main/1575-count-all-possible-routes/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/samiralam321/DSA-LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1872-stone-game-viii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/samiralam321/DSA-LeetCode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/samiralam321/DSA-LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -306,6 +307,7 @@
 | [1575-count-all-possible-routes](https://github.com/samiralam321/DSA-LeetCode/tree/main/1575-count-all-possible-routes/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/samiralam321/DSA-LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/samiralam321/DSA-LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1872-stone-game-viii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/samiralam321/DSA-LeetCode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/samiralam321/DSA-LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -428,6 +430,7 @@
 | [0877-stone-game](https://github.com/samiralam321/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1563-stone-game-v](https://github.com/samiralam321/DSA-LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/samiralam321/DSA-LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1872-stone-game-viii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/samiralam321/DSA-LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/samiralam321/DSA-LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/samiralam321/DSA-LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
@@ -439,6 +442,7 @@
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/samiralam321/DSA-LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/samiralam321/DSA-LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1872-stone-game-viii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/samiralam321/DSA-LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/samiralam321/DSA-LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -464,15 +468,18 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/samiralam321/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
+| [1872-stone-game-viii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/samiralam321/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1563-stone-game-v](https://github.com/samiralam321/DSA-LeetCode/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/samiralam321/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
+| [1872-stone-game-viii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
