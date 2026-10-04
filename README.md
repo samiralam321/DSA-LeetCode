@@ -208,6 +208,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/samiralam321/DSA-LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/samiralam321/DSA-LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/samiralam321/DSA-LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0761-special-binary-string](https://github.com/samiralam321/DSA-LeetCode/tree/main/0761-special-binary-string/) | Hard |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/samiralam321/DSA-LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -347,6 +348,7 @@
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0761-special-binary-string](https://github.com/samiralam321/DSA-LeetCode/tree/main/0761-special-binary-string/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -404,6 +406,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0761-special-binary-string](https://github.com/samiralam321/DSA-LeetCode/tree/main/0761-special-binary-string/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/samiralam321/DSA-LeetCode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
