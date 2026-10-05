@@ -251,6 +251,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/samiralam321/DSA-LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0343-integer-break](https://github.com/samiralam321/DSA-LeetCode/tree/main/0343-integer-break/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0486-predict-the-winner](https://github.com/samiralam321/DSA-LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/samiralam321/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/samiralam321/DSA-LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/samiralam321/DSA-LeetCode/tree/main/0576-out-of-boundary-paths/) | Medium |
@@ -297,6 +298,7 @@
 | [0213-house-robber-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/samiralam321/DSA-LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0486-predict-the-winner](https://github.com/samiralam321/DSA-LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0835-image-overlap](https://github.com/samiralam321/DSA-LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/samiralam321/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -433,6 +435,7 @@
 | [0062-unique-paths](https://github.com/samiralam321/DSA-LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/samiralam321/DSA-LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0343-integer-break](https://github.com/samiralam321/DSA-LeetCode/tree/main/0343-integer-break/) | Medium |
+| [0486-predict-the-winner](https://github.com/samiralam321/DSA-LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/samiralam321/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/samiralam321/DSA-LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/samiralam321/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
@@ -457,6 +460,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/samiralam321/DSA-LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/samiralam321/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/samiralam321/DSA-LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Memoization
@@ -475,17 +479,20 @@
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/samiralam321/DSA-LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/samiralam321/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1872-stone-game-viii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/samiralam321/DSA-LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/samiralam321/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1563-stone-game-v](https://github.com/samiralam321/DSA-LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/samiralam321/DSA-LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/samiralam321/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1872-stone-game-viii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 ## Matrix
