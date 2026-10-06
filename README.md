@@ -210,6 +210,7 @@
 | [0678-valid-parenthesis-string](https://github.com/samiralam321/DSA-LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0761-special-binary-string](https://github.com/samiralam321/DSA-LeetCode/tree/main/0761-special-binary-string/) | Hard |
 | [0856-score-of-parentheses](https://github.com/samiralam321/DSA-LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/samiralam321/DSA-LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/samiralam321/DSA-LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -386,6 +387,7 @@
 | [0678-valid-parenthesis-string](https://github.com/samiralam321/DSA-LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/samiralam321/DSA-LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0897-increasing-order-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/samiralam321/DSA-LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/samiralam321/DSA-LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -513,6 +515,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/samiralam321/DSA-LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/samiralam321/DSA-LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1402-reducing-dishes](https://github.com/samiralam321/DSA-LeetCode/tree/main/1402-reducing-dishes/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/samiralam321/DSA-LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Combinatorics
@@ -547,6 +550,7 @@
 | [0032-longest-valid-parentheses](https://github.com/samiralam321/DSA-LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/samiralam321/DSA-LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/samiralam321/DSA-LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/samiralam321/DSA-LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/samiralam321/DSA-LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/samiralam321/DSA-LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/samiralam321/DSA-LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
