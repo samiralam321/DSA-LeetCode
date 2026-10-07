@@ -269,6 +269,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/samiralam321/DSA-LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1402-reducing-dishes](https://github.com/samiralam321/DSA-LeetCode/tree/main/1402-reducing-dishes/) | Hard |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
 | [1416-restore-the-array](https://github.com/samiralam321/DSA-LeetCode/tree/main/1416-restore-the-array/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/samiralam321/DSA-LeetCode/tree/main/1510-stone-game-iv/) | Hard |
@@ -576,4 +577,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/samiralam321/DSA-LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
 <!---LeetCode Topics End-->
