@@ -278,6 +278,7 @@
 | [1575-count-all-possible-routes](https://github.com/samiralam321/DSA-LeetCode/tree/main/1575-count-all-possible-routes/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/samiralam321/DSA-LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1872-stone-game-viii/) | Hard |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/samiralam321/DSA-LeetCode/tree/main/1884-egg-drop-with-2-eggs-and-n-floors/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2008-maximum-earnings-from-taxi](https://github.com/samiralam321/DSA-LeetCode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/samiralam321/DSA-LeetCode/tree/main/2140-solving-questions-with-brainpower/) | Medium |
@@ -453,6 +454,7 @@
 | [1563-stone-game-v](https://github.com/samiralam321/DSA-LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/samiralam321/DSA-LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1872-stone-game-viii/) | Hard |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/samiralam321/DSA-LeetCode/tree/main/1884-egg-drop-with-2-eggs-and-n-floors/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/samiralam321/DSA-LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/samiralam321/DSA-LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/samiralam321/DSA-LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
