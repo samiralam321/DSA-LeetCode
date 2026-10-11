@@ -262,6 +262,7 @@
 | [0647-palindromic-substrings](https://github.com/samiralam321/DSA-LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/samiralam321/DSA-LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0688-knight-probability-in-chessboard](https://github.com/samiralam321/DSA-LeetCode/tree/main/0688-knight-probability-in-chessboard/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/samiralam321/DSA-LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/samiralam321/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/samiralam321/DSA-LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/samiralam321/DSA-LeetCode/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
@@ -310,6 +311,7 @@
 | [0403-frog-jump](https://github.com/samiralam321/DSA-LeetCode/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/samiralam321/DSA-LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/samiralam321/DSA-LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0835-image-overlap](https://github.com/samiralam321/DSA-LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/samiralam321/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
