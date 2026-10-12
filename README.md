@@ -63,6 +63,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0322-coin-change](https://github.com/samiralam321/DSA-LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/samiralam321/DSA-LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/samiralam321/DSA-LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
@@ -255,6 +256,7 @@
 | [0198-house-robber](https://github.com/samiralam321/DSA-LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/samiralam321/DSA-LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0322-coin-change](https://github.com/samiralam321/DSA-LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0343-integer-break](https://github.com/samiralam321/DSA-LeetCode/tree/main/0343-integer-break/) | Medium |
 | [0377-combination-sum-iv](https://github.com/samiralam321/DSA-LeetCode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0403-frog-jump](https://github.com/samiralam321/DSA-LeetCode/tree/main/0403-frog-jump/) | Hard |
@@ -313,6 +315,7 @@
 | [0198-house-robber](https://github.com/samiralam321/DSA-LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/samiralam321/DSA-LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0322-coin-change](https://github.com/samiralam321/DSA-LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0377-combination-sum-iv](https://github.com/samiralam321/DSA-LeetCode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0403-frog-jump](https://github.com/samiralam321/DSA-LeetCode/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -572,6 +575,7 @@
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/samiralam321/DSA-LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
@@ -612,4 +616,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/samiralam321/DSA-LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/samiralam321/DSA-LeetCode/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
