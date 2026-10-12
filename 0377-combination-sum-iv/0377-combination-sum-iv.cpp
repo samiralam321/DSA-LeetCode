@@ -1,30 +1,28 @@
 class Solution {
 public:
     int n;
-    int t[2001];
-    
-    int solve(vector<int>& nums, int target){
+    int dp[201][1001];
+
+    int solve(int idx, vector<int>& nums, int target){
         if(target == 0) return 1;
-        
-        if(target < 0) return 0;
-        
-        int result = 0;
-        
-        if(t[target] != -1){
-            return t[target];
+        if(idx >= n || target < 0){
+            return 0;
         }
-        
-        for(int i = 0; i<n; i++){
-            int take_i  = solve(nums, target-nums[i]);
-            result += take_i;
+
+        if(dp[idx][target] != -1){
+            return dp[idx][target];
         }
-        
-        return t[target] = result;
+
+        int take_ith = solve(0, nums, target-nums[idx]);
+        int not_take = solve(idx+1, nums, target);
+
+        return dp[idx][target] = take_ith + not_take;
+
     }
-    
+
     int combinationSum4(vector<int>& nums, int target) {
         n = nums.size();
-        memset(t, -1, sizeof(t));
-        return solve(nums, target);
+        memset(dp,-1,sizeof(dp));
+        return solve(0, nums, target);  
     }
 };
