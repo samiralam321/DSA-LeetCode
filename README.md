@@ -210,6 +210,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/samiralam321/DSA-LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0639-decode-ways-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/0639-decode-ways-ii/) | Hard |
 | [0647-palindromic-substrings](https://github.com/samiralam321/DSA-LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
+| [0664-strange-printer](https://github.com/samiralam321/DSA-LeetCode/tree/main/0664-strange-printer/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/samiralam321/DSA-LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0761-special-binary-string](https://github.com/samiralam321/DSA-LeetCode/tree/main/0761-special-binary-string/) | Hard |
 | [0856-score-of-parentheses](https://github.com/samiralam321/DSA-LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
@@ -267,6 +268,7 @@
 | [0576-out-of-boundary-paths](https://github.com/samiralam321/DSA-LeetCode/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0639-decode-ways-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/0639-decode-ways-ii/) | Hard |
 | [0647-palindromic-substrings](https://github.com/samiralam321/DSA-LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
+| [0664-strange-printer](https://github.com/samiralam321/DSA-LeetCode/tree/main/0664-strange-printer/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/samiralam321/DSA-LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0688-knight-probability-in-chessboard](https://github.com/samiralam321/DSA-LeetCode/tree/main/0688-knight-probability-in-chessboard/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/samiralam321/DSA-LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
