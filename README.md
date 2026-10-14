@@ -300,6 +300,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/samiralam321/DSA-LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/samiralam321/DSA-LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/samiralam321/DSA-LeetCode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -487,6 +488,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/samiralam321/DSA-LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/samiralam321/DSA-LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/samiralam321/DSA-LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/samiralam321/DSA-LeetCode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 | [3870-count-commas-in-range](https://github.com/samiralam321/DSA-LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/samiralam321/DSA-LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
