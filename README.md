@@ -80,6 +80,7 @@
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/samiralam321/DSA-LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/samiralam321/DSA-LeetCode/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
 ## Binary Tree
@@ -182,6 +183,7 @@
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/samiralam321/DSA-LeetCode/tree/main/1530-number-of-good-leaf-nodes-pairs/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/samiralam321/DSA-LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -298,6 +300,7 @@
 | [2008-maximum-earnings-from-taxi](https://github.com/samiralam321/DSA-LeetCode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/samiralam321/DSA-LeetCode/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/samiralam321/DSA-LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/samiralam321/DSA-LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/samiralam321/DSA-LeetCode/tree/main/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/samiralam321/DSA-LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -349,6 +352,7 @@
 | [2008-maximum-earnings-from-taxi](https://github.com/samiralam321/DSA-LeetCode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/samiralam321/DSA-LeetCode/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/samiralam321/DSA-LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/samiralam321/DSA-LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/samiralam321/DSA-LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -519,6 +523,7 @@
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/samiralam321/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1575-count-all-possible-routes](https://github.com/samiralam321/DSA-LeetCode/tree/main/1575-count-all-possible-routes/) | Hard |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -559,6 +564,7 @@
 | [0835-image-overlap](https://github.com/samiralam321/DSA-LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/samiralam321/DSA-LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/samiralam321/DSA-LeetCode/tree/main/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/samiralam321/DSA-LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -652,4 +658,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/samiralam321/DSA-LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 <!---LeetCode Topics End-->
