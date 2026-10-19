@@ -281,6 +281,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/samiralam321/DSA-LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/samiralam321/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0879-profitable-schemes](https://github.com/samiralam321/DSA-LeetCode/tree/main/0879-profitable-schemes/) | Hard |
+| [0956-tallest-billboard](https://github.com/samiralam321/DSA-LeetCode/tree/main/0956-tallest-billboard/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/samiralam321/DSA-LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/samiralam321/DSA-LeetCode/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
@@ -340,6 +341,7 @@
 | [0835-image-overlap](https://github.com/samiralam321/DSA-LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/samiralam321/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0879-profitable-schemes](https://github.com/samiralam321/DSA-LeetCode/tree/main/0879-profitable-schemes/) | Hard |
+| [0956-tallest-billboard](https://github.com/samiralam321/DSA-LeetCode/tree/main/0956-tallest-billboard/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/samiralam321/DSA-LeetCode/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
@@ -626,11 +628,13 @@
 | [0322-coin-change](https://github.com/samiralam321/DSA-LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0879-profitable-schemes](https://github.com/samiralam321/DSA-LeetCode/tree/main/0879-profitable-schemes/) | Hard |
+| [0956-tallest-billboard](https://github.com/samiralam321/DSA-LeetCode/tree/main/0956-tallest-billboard/) | Hard |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0879-profitable-schemes](https://github.com/samiralam321/DSA-LeetCode/tree/main/0879-profitable-schemes/) | Hard |
+| [0956-tallest-billboard](https://github.com/samiralam321/DSA-LeetCode/tree/main/0956-tallest-billboard/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -702,4 +706,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Meet in the Middle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0956-tallest-billboard](https://github.com/samiralam321/DSA-LeetCode/tree/main/0956-tallest-billboard/) | Hard |
 <!---LeetCode Topics End-->
