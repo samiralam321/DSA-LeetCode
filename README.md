@@ -279,6 +279,7 @@
 | [0664-strange-printer](https://github.com/samiralam321/DSA-LeetCode/tree/main/0664-strange-printer/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/samiralam321/DSA-LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0688-knight-probability-in-chessboard](https://github.com/samiralam321/DSA-LeetCode/tree/main/0688-knight-probability-in-chessboard/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/samiralam321/DSA-LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/samiralam321/DSA-LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/samiralam321/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0879-profitable-schemes](https://github.com/samiralam321/DSA-LeetCode/tree/main/0879-profitable-schemes/) | Hard |
@@ -339,6 +340,7 @@
 | [0403-frog-jump](https://github.com/samiralam321/DSA-LeetCode/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/samiralam321/DSA-LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/samiralam321/DSA-LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/samiralam321/DSA-LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0835-image-overlap](https://github.com/samiralam321/DSA-LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/samiralam321/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
@@ -431,6 +433,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0669-trim-a-binary-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/samiralam321/DSA-LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/samiralam321/DSA-LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -622,6 +625,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/samiralam321/DSA-LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/samiralam321/DSA-LeetCode/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/samiralam321/DSA-LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -718,4 +722,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0956-tallest-billboard](https://github.com/samiralam321/DSA-LeetCode/tree/main/0956-tallest-billboard/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/samiralam321/DSA-LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/samiralam321/DSA-LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 <!---LeetCode Topics End-->
