@@ -80,6 +80,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/samiralam321/DSA-LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/samiralam321/DSA-LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
@@ -181,6 +182,7 @@
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/samiralam321/DSA-LeetCode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/samiralam321/DSA-LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/samiralam321/DSA-LeetCode/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -352,6 +354,7 @@
 | [1187-make-array-strictly-increasing](https://github.com/samiralam321/DSA-LeetCode/tree/main/1187-make-array-strictly-increasing/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/samiralam321/DSA-LeetCode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/samiralam321/DSA-LeetCode/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/samiralam321/DSA-LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/samiralam321/DSA-LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1402-reducing-dishes](https://github.com/samiralam321/DSA-LeetCode/tree/main/1402-reducing-dishes/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -594,6 +597,7 @@
 | [0064-minimum-path-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/samiralam321/DSA-LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0835-image-overlap](https://github.com/samiralam321/DSA-LeetCode/tree/main/0835-image-overlap/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/samiralam321/DSA-LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/samiralam321/DSA-LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
@@ -713,6 +717,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/samiralam321/DSA-LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Fermat's Little Theorem
 | Problem Name | Difficulty |
