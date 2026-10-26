@@ -297,6 +297,7 @@
 | [1187-make-array-strictly-increasing](https://github.com/samiralam321/DSA-LeetCode/tree/main/1187-make-array-strictly-increasing/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/samiralam321/DSA-LeetCode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/samiralam321/DSA-LeetCode/tree/main/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/samiralam321/DSA-LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/samiralam321/DSA-LeetCode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1402-reducing-dishes](https://github.com/samiralam321/DSA-LeetCode/tree/main/1402-reducing-dishes/) | Hard |
@@ -360,6 +361,7 @@
 | [1235-maximum-profit-in-job-scheduling](https://github.com/samiralam321/DSA-LeetCode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/samiralam321/DSA-LeetCode/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/samiralam321/DSA-LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/samiralam321/DSA-LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/samiralam321/DSA-LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1402-reducing-dishes](https://github.com/samiralam321/DSA-LeetCode/tree/main/1402-reducing-dishes/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -608,6 +610,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/samiralam321/DSA-LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0835-image-overlap](https://github.com/samiralam321/DSA-LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/samiralam321/DSA-LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/samiralam321/DSA-LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/samiralam321/DSA-LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
