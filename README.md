@@ -63,6 +63,7 @@
 | [0100-same-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0200-number-of-islands](https://github.com/samiralam321/DSA-LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/samiralam321/DSA-LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/samiralam321/DSA-LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -153,6 +154,7 @@
 | [0113-path-sum-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/samiralam321/DSA-LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0200-number-of-islands](https://github.com/samiralam321/DSA-LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/samiralam321/DSA-LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -336,6 +338,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0120-triangle](https://github.com/samiralam321/DSA-LeetCode/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/samiralam321/DSA-LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/samiralam321/DSA-LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/samiralam321/DSA-LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/samiralam321/DSA-LeetCode/tree/main/0322-coin-change/) | Medium |
@@ -598,6 +601,7 @@
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0200-number-of-islands](https://github.com/samiralam321/DSA-LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/samiralam321/DSA-LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0835-image-overlap](https://github.com/samiralam321/DSA-LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/samiralam321/DSA-LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -721,6 +725,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/samiralam321/DSA-LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/samiralam321/DSA-LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/samiralam321/DSA-LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
