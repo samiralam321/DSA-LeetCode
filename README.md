@@ -371,6 +371,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/samiralam321/DSA-LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1872-stone-game-viii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/samiralam321/DSA-LeetCode/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
 | [2008-maximum-earnings-from-taxi](https://github.com/samiralam321/DSA-LeetCode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/samiralam321/DSA-LeetCode/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/samiralam321/DSA-LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -453,6 +454,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/samiralam321/DSA-LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/samiralam321/DSA-LeetCode/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
 | [2008-maximum-earnings-from-taxi](https://github.com/samiralam321/DSA-LeetCode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/samiralam321/DSA-LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/samiralam321/DSA-LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -574,6 +576,7 @@
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/samiralam321/DSA-LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1187-make-array-strictly-increasing](https://github.com/samiralam321/DSA-LeetCode/tree/main/1187-make-array-strictly-increasing/) | Hard |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/samiralam321/DSA-LeetCode/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -701,6 +704,7 @@
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/samiralam321/DSA-LeetCode/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/samiralam321/DSA-LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## Segment Tree
