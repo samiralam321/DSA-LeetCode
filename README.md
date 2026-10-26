@@ -86,6 +86,7 @@
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/samiralam321/DSA-LeetCode/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/samiralam321/DSA-LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +192,7 @@
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/samiralam321/DSA-LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/samiralam321/DSA-LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -383,6 +385,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/samiralam321/DSA-LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/samiralam321/DSA-LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/samiralam321/DSA-LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/samiralam321/DSA-LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/samiralam321/DSA-LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -603,6 +606,7 @@
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/samiralam321/DSA-LeetCode/tree/main/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/samiralam321/DSA-LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/samiralam321/DSA-LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
@@ -719,6 +723,7 @@
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/samiralam321/DSA-LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/samiralam321/DSA-LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Fermat's Little Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
