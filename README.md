@@ -275,6 +275,7 @@
 | [0322-coin-change](https://github.com/samiralam321/DSA-LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/samiralam321/DSA-LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0343-integer-break](https://github.com/samiralam321/DSA-LeetCode/tree/main/0343-integer-break/) | Medium |
+| [0354-russian-doll-envelopes](https://github.com/samiralam321/DSA-LeetCode/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0377-combination-sum-iv](https://github.com/samiralam321/DSA-LeetCode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0403-frog-jump](https://github.com/samiralam321/DSA-LeetCode/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -349,6 +350,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/samiralam321/DSA-LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/samiralam321/DSA-LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/samiralam321/DSA-LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0354-russian-doll-envelopes](https://github.com/samiralam321/DSA-LeetCode/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0377-combination-sum-iv](https://github.com/samiralam321/DSA-LeetCode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0403-frog-jump](https://github.com/samiralam321/DSA-LeetCode/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -445,6 +447,7 @@
 | [0099-recover-binary-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/samiralam321/DSA-LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0354-russian-doll-envelopes](https://github.com/samiralam321/DSA-LeetCode/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0449-serialize-and-deserialize-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -502,6 +505,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0354-russian-doll-envelopes](https://github.com/samiralam321/DSA-LeetCode/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0761-special-binary-string](https://github.com/samiralam321/DSA-LeetCode/tree/main/0761-special-binary-string/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -585,6 +589,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/samiralam321/DSA-LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0354-russian-doll-envelopes](https://github.com/samiralam321/DSA-LeetCode/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [1187-make-array-strictly-increasing](https://github.com/samiralam321/DSA-LeetCode/tree/main/1187-make-array-strictly-increasing/) | Hard |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/samiralam321/DSA-LeetCode/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
 ## Minimax
