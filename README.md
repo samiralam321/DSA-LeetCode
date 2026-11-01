@@ -253,6 +253,7 @@
 | [0257-binary-tree-paths](https://github.com/samiralam321/DSA-LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/samiralam321/DSA-LeetCode/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
+| [1799-maximize-score-after-n-operations](https://github.com/samiralam321/DSA-LeetCode/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -313,6 +314,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1575-count-all-possible-routes](https://github.com/samiralam321/DSA-LeetCode/tree/main/1575-count-all-possible-routes/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/samiralam321/DSA-LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1799-maximize-score-after-n-operations](https://github.com/samiralam321/DSA-LeetCode/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [1872-stone-game-viii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/samiralam321/DSA-LeetCode/tree/main/1884-egg-drop-with-2-eggs-and-n-floors/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
@@ -333,6 +335,7 @@
 | ------- | ------- |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/samiralam321/DSA-LeetCode/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1457-pseudo-palindromic-paths-in-a-binary-tree/) | Medium |
+| [1799-maximize-score-after-n-operations](https://github.com/samiralam321/DSA-LeetCode/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/samiralam321/DSA-LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/samiralam321/DSA-LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -379,6 +382,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1575-count-all-possible-routes](https://github.com/samiralam321/DSA-LeetCode/tree/main/1575-count-all-possible-routes/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/samiralam321/DSA-LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1799-maximize-score-after-n-operations](https://github.com/samiralam321/DSA-LeetCode/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/samiralam321/DSA-LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1872-stone-game-viii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
@@ -548,6 +552,7 @@
 | [1563-stone-game-v](https://github.com/samiralam321/DSA-LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/samiralam321/DSA-LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1799-maximize-score-after-n-operations](https://github.com/samiralam321/DSA-LeetCode/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [1872-stone-game-viii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/samiralam321/DSA-LeetCode/tree/main/1884-egg-drop-with-2-eggs-and-n-floors/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/samiralam321/DSA-LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -779,4 +784,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/samiralam321/DSA-LeetCode/tree/main/0139-word-break/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1799-maximize-score-after-n-operations](https://github.com/samiralam321/DSA-LeetCode/tree/main/1799-maximize-score-after-n-operations/) | Hard |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1799-maximize-score-after-n-operations](https://github.com/samiralam321/DSA-LeetCode/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 <!---LeetCode Topics End-->
