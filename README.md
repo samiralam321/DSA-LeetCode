@@ -355,6 +355,7 @@
 | [0377-combination-sum-iv](https://github.com/samiralam321/DSA-LeetCode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0403-frog-jump](https://github.com/samiralam321/DSA-LeetCode/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/samiralam321/DSA-LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/samiralam321/DSA-LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/samiralam321/DSA-LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/samiralam321/DSA-LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -538,6 +539,7 @@
 | [0062-unique-paths](https://github.com/samiralam321/DSA-LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/samiralam321/DSA-LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0343-integer-break](https://github.com/samiralam321/DSA-LeetCode/tree/main/0343-integer-break/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/samiralam321/DSA-LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/samiralam321/DSA-LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/samiralam321/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/samiralam321/DSA-LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
