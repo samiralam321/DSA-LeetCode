@@ -325,6 +325,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/samiralam321/DSA-LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/samiralam321/DSA-LeetCode/tree/main/3117-minimum-sum-of-values-by-dividing-array/) | Hard |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/samiralam321/DSA-LeetCode/tree/main/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
+| [3366-minimum-array-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/3366-minimum-array-sum/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/samiralam321/DSA-LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/samiralam321/DSA-LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/samiralam321/DSA-LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
@@ -403,6 +404,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/samiralam321/DSA-LeetCode/tree/main/3117-minimum-sum-of-values-by-dividing-array/) | Hard |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/samiralam321/DSA-LeetCode/tree/main/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
+| [3366-minimum-array-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/3366-minimum-array-sum/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/samiralam321/DSA-LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/samiralam321/DSA-LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/samiralam321/DSA-LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
