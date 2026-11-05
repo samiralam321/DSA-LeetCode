@@ -380,6 +380,7 @@
 | [1254-number-of-closed-islands](https://github.com/samiralam321/DSA-LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/samiralam321/DSA-LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/samiralam321/DSA-LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/samiralam321/DSA-LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1402-reducing-dishes](https://github.com/samiralam321/DSA-LeetCode/tree/main/1402-reducing-dishes/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -481,6 +482,7 @@
 | [1187-make-array-strictly-increasing](https://github.com/samiralam321/DSA-LeetCode/tree/main/1187-make-array-strictly-increasing/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/samiralam321/DSA-LeetCode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/samiralam321/DSA-LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/samiralam321/DSA-LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -531,6 +533,7 @@
 | [1096-brace-expansion-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1187-make-array-strictly-increasing](https://github.com/samiralam321/DSA-LeetCode/tree/main/1187-make-array-strictly-increasing/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/samiralam321/DSA-LeetCode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/samiralam321/DSA-LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1402-reducing-dishes](https://github.com/samiralam321/DSA-LeetCode/tree/main/1402-reducing-dishes/) | Hard |
 | [2008-maximum-earnings-from-taxi](https://github.com/samiralam321/DSA-LeetCode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -550,6 +553,7 @@
 | ------- | ------- |
 | [0647-palindromic-substrings](https://github.com/samiralam321/DSA-LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/samiralam321/DSA-LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/samiralam321/DSA-LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Math
 | Problem Name | Difficulty |
