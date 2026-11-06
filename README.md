@@ -341,6 +341,7 @@
 | [1799-maximize-score-after-n-operations](https://github.com/samiralam321/DSA-LeetCode/tree/main/1799-maximize-score-after-n-operations/) | Hard |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/samiralam321/DSA-LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/samiralam321/DSA-LeetCode/tree/main/3117-minimum-sum-of-values-by-dividing-array/) | Hard |
+| [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/samiralam321/DSA-LeetCode/tree/main/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/samiralam321/DSA-LeetCode/tree/main/3209-number-of-subarrays-with-and-value-of-k/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/samiralam321/DSA-LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -407,6 +408,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/samiralam321/DSA-LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/samiralam321/DSA-LeetCode/tree/main/3117-minimum-sum-of-values-by-dividing-array/) | Hard |
+| [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/samiralam321/DSA-LeetCode/tree/main/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/samiralam321/DSA-LeetCode/tree/main/3209-number-of-subarrays-with-and-value-of-k/) | Hard |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/samiralam321/DSA-LeetCode/tree/main/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
 | [3366-minimum-array-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/3366-minimum-array-sum/) | Medium |
@@ -494,6 +496,7 @@
 | [2008-maximum-earnings-from-taxi](https://github.com/samiralam321/DSA-LeetCode/tree/main/2008-maximum-earnings-from-taxi/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/samiralam321/DSA-LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/samiralam321/DSA-LeetCode/tree/main/3117-minimum-sum-of-values-by-dividing-array/) | Hard |
+| [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/samiralam321/DSA-LeetCode/tree/main/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/samiralam321/DSA-LeetCode/tree/main/3209-number-of-subarrays-with-and-value-of-k/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/samiralam321/DSA-LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Stack
@@ -772,6 +775,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/samiralam321/DSA-LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/samiralam321/DSA-LeetCode/tree/main/3117-minimum-sum-of-values-by-dividing-array/) | Hard |
+| [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/samiralam321/DSA-LeetCode/tree/main/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/samiralam321/DSA-LeetCode/tree/main/3209-number-of-subarrays-with-and-value-of-k/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
