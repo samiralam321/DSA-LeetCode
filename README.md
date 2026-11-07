@@ -283,6 +283,7 @@
 | [0486-predict-the-winner](https://github.com/samiralam321/DSA-LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/samiralam321/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/samiralam321/DSA-LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0552-student-attendance-record-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/0552-student-attendance-record-ii/) | Hard |
 | [0576-out-of-boundary-paths](https://github.com/samiralam321/DSA-LeetCode/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0639-decode-ways-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/0639-decode-ways-ii/) | Hard |
 | [0647-palindromic-substrings](https://github.com/samiralam321/DSA-LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
