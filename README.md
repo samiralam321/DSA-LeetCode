@@ -333,6 +333,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/samiralam321/DSA-LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/samiralam321/DSA-LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/samiralam321/DSA-LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/samiralam321/DSA-LeetCode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -428,6 +429,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/samiralam321/DSA-LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/samiralam321/DSA-LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/samiralam321/DSA-LeetCode/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/samiralam321/DSA-LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/samiralam321/DSA-LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3742-maximum-path-score-in-a-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
