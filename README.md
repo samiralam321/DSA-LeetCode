@@ -269,6 +269,7 @@
 | [0096-unique-binary-search-trees](https://github.com/samiralam321/DSA-LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0115-distinct-subsequences](https://github.com/samiralam321/DSA-LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/samiralam321/DSA-LeetCode/tree/main/0120-triangle/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/samiralam321/DSA-LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/samiralam321/DSA-LeetCode/tree/main/0139-word-break/) | Medium |
@@ -358,6 +359,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0120-triangle](https://github.com/samiralam321/DSA-LeetCode/tree/main/0120-triangle/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0139-word-break](https://github.com/samiralam321/DSA-LeetCode/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/samiralam321/DSA-LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/samiralam321/DSA-LeetCode/tree/main/0200-number-of-islands/) | Medium |
@@ -696,6 +698,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/samiralam321/DSA-LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/samiralam321/DSA-LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1402-reducing-dishes](https://github.com/samiralam321/DSA-LeetCode/tree/main/1402-reducing-dishes/) | Hard |
