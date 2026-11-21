@@ -57,6 +57,7 @@
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/samiralam321/DSA-LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/samiralam321/DSA-LeetCode/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/samiralam321/DSA-LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +197,7 @@
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/samiralam321/DSA-LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/samiralam321/DSA-LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/samiralam321/DSA-LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -245,6 +247,7 @@
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/samiralam321/DSA-LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/samiralam321/DSA-LeetCode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/samiralam321/DSA-LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/samiralam321/DSA-LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -426,6 +429,7 @@
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/samiralam321/DSA-LeetCode/tree/main/3117-minimum-sum-of-values-by-dividing-array/) | Hard |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/samiralam321/DSA-LeetCode/tree/main/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/samiralam321/DSA-LeetCode/tree/main/3209-number-of-subarrays-with-and-value-of-k/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/samiralam321/DSA-LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/samiralam321/DSA-LeetCode/tree/main/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
 | [3366-minimum-array-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/3366-minimum-array-sum/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/samiralam321/DSA-LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -470,6 +474,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/samiralam321/DSA-LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/samiralam321/DSA-LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/samiralam321/DSA-LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/samiralam321/DSA-LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/samiralam321/DSA-LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
