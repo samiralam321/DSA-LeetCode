@@ -244,6 +244,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/samiralam321/DSA-LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/samiralam321/DSA-LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/samiralam321/DSA-LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/samiralam321/DSA-LeetCode/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/samiralam321/DSA-LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/samiralam321/DSA-LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
