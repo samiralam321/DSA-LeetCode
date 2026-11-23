@@ -397,6 +397,7 @@
 | [1267-count-servers-that-communicate](https://github.com/samiralam321/DSA-LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/samiralam321/DSA-LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/samiralam321/DSA-LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/samiralam321/DSA-LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/samiralam321/DSA-LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1402-reducing-dishes](https://github.com/samiralam321/DSA-LeetCode/tree/main/1402-reducing-dishes/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -583,6 +584,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0449-serialize-and-deserialize-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/samiralam321/DSA-LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -602,6 +604,7 @@
 | [0509-fibonacci-number](https://github.com/samiralam321/DSA-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/samiralam321/DSA-LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/samiralam321/DSA-LeetCode/tree/main/0877-stone-game/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/samiralam321/DSA-LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1510-stone-game-iv](https://github.com/samiralam321/DSA-LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/samiralam321/DSA-LeetCode/tree/main/1563-stone-game-v/) | Hard |
@@ -626,6 +629,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/samiralam321/DSA-LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/samiralam321/DSA-LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/samiralam321/DSA-LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -879,4 +883,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/samiralam321/DSA-LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/samiralam321/DSA-LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
