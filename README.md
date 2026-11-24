@@ -435,6 +435,7 @@
 | [3331-find-subtree-sizes-after-changes](https://github.com/samiralam321/DSA-LeetCode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/samiralam321/DSA-LeetCode/tree/main/3363-find-the-maximum-number-of-fruits-collected/) | Hard |
 | [3366-minimum-array-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/3366-minimum-array-sum/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/samiralam321/DSA-LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/samiralam321/DSA-LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/samiralam321/DSA-LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/samiralam321/DSA-LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -614,6 +615,7 @@
 | [1872-stone-game-viii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/samiralam321/DSA-LeetCode/tree/main/1884-egg-drop-with-2-eggs-and-n-floors/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/samiralam321/DSA-LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/samiralam321/DSA-LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/samiralam321/DSA-LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/samiralam321/DSA-LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -656,6 +658,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/samiralam321/DSA-LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/samiralam321/DSA-LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/samiralam321/DSA-LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/samiralam321/DSA-LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Longest Increasing Subsequence
@@ -742,6 +745,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/samiralam321/DSA-LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/samiralam321/DSA-LeetCode/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/samiralam321/DSA-LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/samiralam321/DSA-LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
@@ -867,6 +871,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1799-maximize-score-after-n-operations](https://github.com/samiralam321/DSA-LeetCode/tree/main/1799-maximize-score-after-n-operations/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/samiralam321/DSA-LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
