@@ -456,6 +456,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/samiralam321/DSA-LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/samiralam321/DSA-LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/samiralam321/DSA-LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/samiralam321/DSA-LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -482,6 +483,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/samiralam321/DSA-LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/samiralam321/DSA-LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/samiralam321/DSA-LeetCode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/samiralam321/DSA-LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -525,6 +527,7 @@
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/samiralam321/DSA-LeetCode/tree/main/3171-find-subarray-with-bitwise-or-closest-to-k/) | Hard |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/samiralam321/DSA-LeetCode/tree/main/3209-number-of-subarrays-with-and-value-of-k/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/samiralam321/DSA-LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/samiralam321/DSA-LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -855,10 +858,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/samiralam321/DSA-LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/samiralam321/DSA-LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/samiralam321/DSA-LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/samiralam321/DSA-LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -892,4 +897,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/samiralam321/DSA-LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/samiralam321/DSA-LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
