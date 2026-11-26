@@ -217,6 +217,7 @@
 | [0020-valid-parentheses](https://github.com/samiralam321/DSA-LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/samiralam321/DSA-LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/samiralam321/DSA-LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0076-minimum-window-substring](https://github.com/samiralam321/DSA-LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/samiralam321/DSA-LeetCode/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/samiralam321/DSA-LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/samiralam321/DSA-LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -461,6 +462,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/samiralam321/DSA-LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0139-word-break](https://github.com/samiralam321/DSA-LeetCode/tree/main/0139-word-break/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -743,6 +745,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/samiralam321/DSA-LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/samiralam321/DSA-LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/samiralam321/DSA-LeetCode/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/samiralam321/DSA-LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
