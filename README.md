@@ -618,6 +618,7 @@
 | [1872-stone-game-viii](https://github.com/samiralam321/DSA-LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/samiralam321/DSA-LeetCode/tree/main/1884-egg-drop-with-2-eggs-and-n-floors/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [3360-stone-removal-game](https://github.com/samiralam321/DSA-LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/samiralam321/DSA-LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/samiralam321/DSA-LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/samiralam321/DSA-LeetCode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -787,6 +788,7 @@
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/samiralam321/DSA-LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/samiralam321/DSA-LeetCode/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
+| [3360-stone-removal-game](https://github.com/samiralam321/DSA-LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
