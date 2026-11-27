@@ -224,6 +224,7 @@
 | [0139-word-break](https://github.com/samiralam321/DSA-LeetCode/tree/main/0139-word-break/) | Medium |
 | [0257-binary-tree-paths](https://github.com/samiralam321/DSA-LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0424-longest-repeating-character-replacement](https://github.com/samiralam321/DSA-LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/samiralam321/DSA-LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0639-decode-ways-ii](https://github.com/samiralam321/DSA-LeetCode/tree/main/0639-decode-ways-ii/) | Hard |
@@ -467,6 +468,7 @@
 | [0076-minimum-window-substring](https://github.com/samiralam321/DSA-LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/samiralam321/DSA-LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0139-word-break](https://github.com/samiralam321/DSA-LeetCode/tree/main/0139-word-break/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/samiralam321/DSA-LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/samiralam321/DSA-LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/samiralam321/DSA-LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/samiralam321/DSA-LeetCode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
@@ -749,6 +751,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/samiralam321/DSA-LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0424-longest-repeating-character-replacement](https://github.com/samiralam321/DSA-LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/samiralam321/DSA-LeetCode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/samiralam321/DSA-LeetCode/tree/main/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/samiralam321/DSA-LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
